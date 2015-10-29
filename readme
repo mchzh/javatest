@@ -1,0 +1,16 @@
+1. Filename: PrintCorreChar.java
+   Function: print the content according the input
+   
+2. Filename: MoveZeroToEnd.java
+   Function: move all 0's of an array to the end
+   
+3. Filename: IsAnagram.java
+   TestFile: IsAnagramTest.java
+   Function: determine if t is an anagram of s
+   
+4. Filename: IsDuplicatesInArray.java
+   Function: find if the array contains any duplicates
+
+5. Filename: IsTwoSumToTarget.java
+   TestFile: IsTwoSumToTargetTest.java
+   Function: find two numbers such that they add up to a specific target numbers
